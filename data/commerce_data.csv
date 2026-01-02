@@ -1,0 +1,301 @@
+date,brand,article_id,category,title,pageviews,unique_visitors,affiliate_clicks,conversions,affiliate_revenue,avg_time_on_page,traffic_source
+2024-10-01,Vogue,VOG001,Fashion,Best Winter Coats 2024,2500,2100,125,15,750.00,180,organic
+2024-10-01,GQ,GQ001,Style,Mens Watches Under $500,1800,1500,90,11,660.00,210,social
+2024-10-01,Wired,WIR001,Tech,Best Laptops for 2024,3200,2800,160,20,1200.00,240,organic
+2024-10-01,Bon Appetit,BA001,Food,Kitchen Gadgets We Love,1500,1200,75,9,450.00,150,email
+2024-10-01,Allure,ALL001,Beauty,Best Face Serums,2200,1900,110,14,840.00,195,organic
+2024-10-02,Vogue,VOG002,Fashion,Designer Handbags Sale,3100,2600,155,19,1140.00,200,social
+2024-10-02,GQ,GQ002,Grooming,Electric Shavers Review,1400,1100,70,8,480.00,165,organic
+2024-10-02,Wired,WIR002,Tech,Smart Home Security,2800,2400,140,17,1020.00,225,organic
+2024-10-02,Bon Appetit,BA002,Food,Coffee Makers Guide,1900,1600,95,12,720.00,180,social
+2024-10-02,Allure,ALL002,Beauty,Luxury Skincare Brands,2600,2200,130,16,960.00,210,email
+2024-10-03,Vogue,VOG003,Accessories,Statement Jewelry Trends,2100,1800,105,13,780.00,175,organic
+2024-10-03,GQ,GQ003,Style,Sneaker Releases,2400,2000,120,15,900.00,190,social
+2024-10-03,Wired,WIR003,Gadgets,Wireless Earbuds Comparison,3500,3000,175,22,1320.00,230,organic
+2024-10-03,Bon Appetit,BA003,Food,Air Fryer Recipes,1700,1400,85,10,600.00,160,email
+2024-10-03,Allure,ALL003,Beauty,Hair Styling Tools,2000,1700,100,12,720.00,185,organic
+2024-10-04,Vogue,VOG004,Fashion,Sustainable Fashion Brands,1900,1600,95,11,660.00,195,organic
+2024-10-04,GQ,GQ004,Style,Suit Shopping Guide,1600,1300,80,9,540.00,205,direct
+2024-10-04,Wired,WIR004,Tech,Gaming Monitors 2024,2900,2500,145,18,1080.00,220,organic
+2024-10-04,Bon Appetit,BA004,Cookware,Cast Iron Skillets,1300,1000,65,7,420.00,170,email
+2024-10-04,Allure,ALL004,Beauty,Makeup Brushes Guide,1800,1500,90,11,660.00,180,social
+2024-10-05,Vogue,VOG005,Fashion,Spring Dress Trends,2800,2400,140,17,1020.00,185,organic
+2024-10-05,GQ,GQ005,Tech,Fitness Trackers,2100,1800,105,13,780.00,200,organic
+2024-10-05,Wired,WIR005,Tech,Smartphone Comparison,4200,3600,210,26,1560.00,245,organic
+2024-10-05,Bon Appetit,BA005,Food,Blender Reviews,1500,1200,75,9,540.00,165,social
+2024-10-05,Allure,ALL005,Beauty,Perfume Gift Guide,2400,2000,120,15,900.00,190,email
+2024-10-06,Vogue,VOG006,Accessories,Designer Sunglasses,2300,1900,115,14,840.00,180,social
+2024-10-06,GQ,GQ006,Grooming,Best Colognes for Men,2000,1700,100,12,720.00,195,organic
+2024-10-06,Wired,WIR006,Tech,Tablet Buying Guide,2600,2200,130,16,960.00,215,organic
+2024-10-06,Bon Appetit,BA006,Food,Stand Mixer Comparison,1400,1100,70,8,480.00,175,email
+2024-10-06,Allure,ALL006,Beauty,Anti-Aging Products,2700,2300,135,17,1020.00,205,organic
+2024-10-07,Vogue,VOG007,Fashion,Luxury Activewear,2500,2100,125,15,900.00,190,organic
+2024-10-07,GQ,GQ007,Style,Leather Jackets Guide,1900,1600,95,11,660.00,200,social
+2024-10-07,Wired,WIR007,Gadgets,Camera Equipment,3100,2700,155,19,1140.00,235,organic
+2024-10-07,Bon Appetit,BA007,Food,Knife Sets Review,1600,1300,80,10,600.00,180,direct
+2024-10-07,Allure,ALL007,Beauty,Nail Polish Trends,1700,1400,85,10,600.00,170,social
+2024-10-08,Vogue,VOG008,Fashion,Wedding Guest Dresses,3200,2700,160,20,1200.00,195,organic
+2024-10-08,GQ,GQ008,Style,Dress Shoes Guide,1800,1500,90,11,660.00,210,organic
+2024-10-08,Wired,WIR008,Tech,Streaming Devices,2400,2000,120,15,900.00,200,social
+2024-10-08,Bon Appetit,BA008,Food,Cookware Sets,1500,1200,75,9,540.00,165,email
+2024-10-08,Allure,ALL008,Beauty,Eye Cream Reviews,2200,1800,110,13,780.00,185,organic
+2024-10-09,Vogue,VOG009,Accessories,Watch Collections,2600,2200,130,16,960.00,200,organic
+2024-10-09,GQ,GQ009,Grooming,Beard Trimmers,1700,1400,85,10,600.00,180,social
+2024-10-09,Wired,WIR009,Tech,Headphones Comparison,3800,3200,190,24,1440.00,240,organic
+2024-10-09,Bon Appetit,BA009,Food,Food Processors,1400,1100,70,8,480.00,170,email
+2024-10-09,Allure,ALL009,Beauty,Lip Care Products,1900,1600,95,12,720.00,175,organic
+2024-10-10,Vogue,VOG010,Fashion,Fall Boots Guide,2900,2500,145,18,1080.00,205,organic
+2024-10-10,GQ,GQ010,Style,Wallet Recommendations,1500,1200,75,9,540.00,190,direct
+2024-10-10,Wired,WIR010,Tech,Router Buying Guide,2200,1900,110,14,840.00,220,organic
+2024-10-10,Bon Appetit,BA010,Cookware,Dutch Ovens Review,1600,1300,80,10,600.00,185,email
+2024-10-10,Allure,ALL010,Beauty,Face Masks Guide,2100,1800,105,13,780.00,180,social
+2024-10-11,Vogue,VOG011,Fashion,Cashmere Sweaters,2400,2000,120,15,900.00,195,organic
+2024-10-11,GQ,GQ011,Tech,Smartwatch Reviews,2300,1900,115,14,840.00,205,organic
+2024-10-11,Wired,WIR011,Gadgets,Portable Chargers,2000,1700,100,12,720.00,195,social
+2024-10-11,Bon Appetit,BA011,Food,Espresso Machines,1800,1500,90,11,660.00,200,email
+2024-10-11,Allure,ALL011,Beauty,Hair Dryers Comparison,2500,2100,125,15,900.00,190,organic
+2024-10-12,Vogue,VOG012,Accessories,Scarves Collection,1800,1500,90,11,660.00,175,social
+2024-10-12,GQ,GQ012,Grooming,Hair Products for Men,1900,1600,95,12,720.00,185,organic
+2024-10-12,Wired,WIR012,Tech,Keyboard Reviews,2700,2300,135,17,1020.00,215,organic
+2024-10-12,Bon Appetit,BA012,Food,Toaster Ovens,1300,1000,65,7,420.00,160,email
+2024-10-12,Allure,ALL012,Beauty,Foundation Guide,2800,2400,140,17,1020.00,195,organic
+2024-10-13,Vogue,VOG013,Fashion,Denim Trends,2200,1900,110,14,840.00,185,organic
+2024-10-13,GQ,GQ013,Style,Backpacks for Work,2000,1700,100,12,720.00,195,social
+2024-10-13,Wired,WIR013,Tech,Mouse Reviews,1900,1600,95,11,660.00,200,organic
+2024-10-13,Bon Appetit,BA013,Food,Slow Cookers Guide,1500,1200,75,9,540.00,175,direct
+2024-10-13,Allure,ALL013,Beauty,Moisturizer Reviews,2400,2000,120,15,900.00,190,organic
+2024-10-14,Vogue,VOG014,Fashion,Evening Gowns,3000,2500,150,18,1080.00,200,organic
+2024-10-14,GQ,GQ014,Style,Sunglasses Guide,2100,1800,105,13,780.00,190,social
+2024-10-14,Wired,WIR014,Gadgets,Power Banks,2300,2000,115,14,840.00,210,organic
+2024-10-14,Bon Appetit,BA014,Food,Blender Bottles,1200,900,60,7,420.00,165,email
+2024-10-14,Allure,ALL014,Beauty,Curling Irons,2200,1900,110,13,780.00,185,organic
+2024-10-15,Vogue,VOG015,Accessories,Belt Collections,1700,1400,85,10,600.00,180,organic
+2024-10-15,GQ,GQ015,Grooming,Skin Care Routine,2400,2000,120,15,900.00,200,organic
+2024-10-15,Wired,WIR015,Tech,External Hard Drives,2600,2200,130,16,960.00,220,social
+2024-10-15,Bon Appetit,BA015,Cookware,Baking Sheets,1400,1100,70,8,480.00,170,email
+2024-10-15,Allure,ALL015,Beauty,Mascara Reviews,2000,1700,100,12,720.00,180,organic
+2024-10-16,Vogue,VOG016,Fashion,Trench Coats,2800,2400,140,17,1020.00,195,organic
+2024-10-16,GQ,GQ016,Style,Ties and Pocket Squares,1600,1300,80,9,540.00,185,direct
+2024-10-16,Wired,WIR016,Tech,Webcams for Remote Work,2500,2100,125,15,900.00,215,organic
+2024-10-16,Bon Appetit,BA016,Food,Cutting Boards,1300,1000,65,7,420.00,160,social
+2024-10-16,Allure,ALL016,Beauty,Blush Recommendations,1900,1600,95,11,660.00,175,organic
+2024-10-17,Vogue,VOG017,Fashion,Blazer Trends,2300,1900,115,14,840.00,190,organic
+2024-10-17,GQ,GQ017,Tech,Noise Cancelling Headphones,2700,2300,135,17,1020.00,210,organic
+2024-10-17,Wired,WIR017,Gadgets,USB Hubs,1800,1500,90,11,660.00,195,social
+2024-10-17,Bon Appetit,BA017,Food,Mixing Bowls,1200,900,60,7,420.00,155,email
+2024-10-17,Allure,ALL017,Beauty,Eyeshadow Palettes,2600,2200,130,16,960.00,190,organic
+2024-10-18,Vogue,VOG018,Accessories,Handbag Trends,2900,2500,145,18,1080.00,200,organic
+2024-10-18,GQ,GQ018,Grooming,Electric Toothbrushes,2000,1700,100,12,720.00,195,organic
+2024-10-18,Wired,WIR018,Tech,Monitor Arms,2200,1900,110,14,840.00,205,social
+2024-10-18,Bon Appetit,BA018,Cookware,Measuring Cups,1100,800,55,6,360.00,150,direct
+2024-10-18,Allure,ALL018,Beauty,Lipstick Guide,2400,2000,120,15,900.00,185,organic
+2024-10-19,Vogue,VOG019,Fashion,Midi Skirts,2100,1800,105,13,780.00,185,organic
+2024-10-19,GQ,GQ019,Style,Cufflinks Collection,1500,1200,75,9,540.00,180,social
+2024-10-19,Wired,WIR019,Tech,Mesh WiFi Systems,3200,2800,160,20,1200.00,230,organic
+2024-10-19,Bon Appetit,BA019,Food,Storage Containers,1400,1100,70,8,480.00,165,email
+2024-10-19,Allure,ALL019,Beauty,Highlighter Products,2100,1800,105,13,780.00,180,organic
+2024-10-20,Vogue,VOG020,Fashion,Sweater Dresses,2600,2200,130,16,960.00,195,organic
+2024-10-20,GQ,GQ020,Grooming,Hair Clippers,1800,1500,90,11,660.00,190,organic
+2024-10-20,Wired,WIR020,Gadgets,Desk Lamps,2000,1700,100,12,720.00,200,social
+2024-10-20,Bon Appetit,BA020,Food,Wine Accessories,1600,1300,80,10,600.00,175,email
+2024-10-20,Allure,ALL020,Beauty,Face Oils,2300,1900,115,14,840.00,190,organic
+2024-10-21,Vogue,VOG021,Accessories,Gloves Collection,1700,1400,85,10,600.00,170,organic
+2024-10-21,GQ,GQ021,Style,Belt Recommendations,1400,1100,70,8,480.00,175,direct
+2024-10-21,Wired,WIR021,Tech,Docking Stations,2400,2000,120,15,900.00,210,organic
+2024-10-21,Bon Appetit,BA021,Cookware,Spatulas and Utensils,1200,900,60,7,420.00,160,social
+2024-10-21,Allure,ALL021,Beauty,Exfoliators Guide,2200,1900,110,13,780.00,185,organic
+2024-10-22,Vogue,VOG022,Fashion,Workwear Essentials,2800,2400,140,17,1020.00,200,organic
+2024-10-22,GQ,GQ022,Tech,Running Watches,2300,1900,115,14,840.00,205,organic
+2024-10-22,Wired,WIR022,Tech,Cable Management,1600,1300,80,9,540.00,190,social
+2024-10-22,Bon Appetit,BA022,Food,Bakeware Sets,1500,1200,75,9,540.00,170,email
+2024-10-22,Allure,ALL022,Beauty,Toner Reviews,2000,1700,100,12,720.00,180,organic
+2024-10-23,Vogue,VOG023,Fashion,Loungewear Sets,3100,2600,155,19,1140.00,195,organic
+2024-10-23,GQ,GQ023,Grooming,Body Wash Guide,1900,1600,95,11,660.00,185,organic
+2024-10-23,Wired,WIR023,Gadgets,Smart Speakers,2900,2500,145,18,1080.00,220,organic
+2024-10-23,Bon Appetit,BA023,Food,Kitchen Scales,1300,1000,65,7,420.00,165,social
+2024-10-23,Allure,ALL023,Beauty,Eyeliner Techniques,2100,1800,105,13,780.00,175,organic
+2024-10-24,Vogue,VOG024,Accessories,Hats Collection,1900,1600,95,11,660.00,180,organic
+2024-10-24,GQ,GQ024,Style,Cardigan Guide,1700,1400,85,10,600.00,190,social
+2024-10-24,Wired,WIR024,Tech,Surge Protectors,1800,1500,90,11,660.00,200,organic
+2024-10-24,Bon Appetit,BA024,Cookware,Pot and Pan Sets,1600,1300,80,10,600.00,180,email
+2024-10-24,Allure,ALL024,Beauty,Setting Spray Reviews,2400,2000,120,15,900.00,190,organic
+2024-10-25,Vogue,VOG025,Fashion,Coat Collections,2700,2300,135,17,1020.00,200,organic
+2024-10-25,GQ,GQ025,Grooming,Face Moisturizers,2100,1800,105,13,780.00,195,organic
+2024-10-25,Wired,WIR025,Tech,Drawing Tablets,2500,2100,125,15,900.00,215,social
+2024-10-25,Bon Appetit,BA025,Food,Tea Kettles,1400,1100,70,8,480.00,170,direct
+2024-10-25,Allure,ALL025,Beauty,Primer Guide,2300,1900,115,14,840.00,185,organic
+2024-10-26,Vogue,VOG026,Fashion,Jumpsuit Trends,2400,2000,120,15,900.00,190,organic
+2024-10-26,GQ,GQ026,Style,Hoodie Recommendations,2000,1700,100,12,720.00,185,social
+2024-10-26,Wired,WIR026,Gadgets,Ring Lights,2200,1900,110,14,840.00,205,organic
+2024-10-26,Bon Appetit,BA026,Food,Graters and Zesters,1100,800,55,6,360.00,155,email
+2024-10-26,Allure,ALL026,Beauty,Bronzer Reviews,2200,1900,110,13,780.00,180,organic
+2024-10-27,Vogue,VOG027,Accessories,Jewelry Storage,1800,1500,90,11,660.00,175,organic
+2024-10-27,GQ,GQ027,Tech,Activity Trackers,2400,2000,120,15,900.00,200,organic
+2024-10-27,Wired,WIR027,Tech,Laptop Stands,2100,1800,105,13,780.00,210,social
+2024-10-27,Bon Appetit,BA027,Cookware,Grill Accessories,1500,1200,75,9,540.00,175,email
+2024-10-27,Allure,ALL027,Beauty,Sheet Masks,2000,1700,100,12,720.00,170,organic
+2024-10-28,Vogue,VOG028,Fashion,Leather Pants,2600,2200,130,16,960.00,195,organic
+2024-10-28,GQ,GQ028,Grooming,Aftershave Balms,1800,1500,90,11,660.00,190,organic
+2024-10-28,Wired,WIR028,Tech,Printer Reviews,2800,2400,140,17,1020.00,220,organic
+2024-10-28,Bon Appetit,BA028,Food,Colanders and Strainers,1200,900,60,7,420.00,160,social
+2024-10-28,Allure,ALL028,Beauty,Cleansing Balms,2500,2100,125,15,900.00,190,organic
+2024-10-29,Vogue,VOG029,Fashion,Ankle Boots,2900,2500,145,18,1080.00,200,organic
+2024-10-29,GQ,GQ029,Style,Polo Shirts,1900,1600,95,11,660.00,185,social
+2024-10-29,Wired,WIR029,Gadgets,Video Doorbells,3100,2700,155,19,1140.00,225,organic
+2024-10-29,Bon Appetit,BA029,Food,Herb Gardens,1400,1100,70,8,480.00,170,email
+2024-10-29,Allure,ALL029,Beauty,Brow Products,2100,1800,105,13,780.00,180,organic
+2024-10-30,Vogue,VOG030,Accessories,Crossbody Bags,2500,2100,125,15,900.00,195,organic
+2024-10-30,GQ,GQ030,Grooming,Deodorant Guide,1700,1400,85,10,600.00,180,organic
+2024-10-30,Wired,WIR030,Tech,Security Cameras,2700,2300,135,17,1020.00,230,organic
+2024-10-30,Bon Appetit,BA030,Cookware,Thermometers,1300,1000,65,7,420.00,165,direct
+2024-10-30,Allure,ALL030,Beauty,Night Creams,2400,2000,120,15,900.00,190,organic
+2024-10-31,Vogue,VOG031,Fashion,Halloween Costume Ideas,3500,3000,175,22,1320.00,205,social
+2024-10-31,GQ,GQ031,Style,Costume Accessories,2200,1900,110,14,840.00,190,social
+2024-10-31,Wired,WIR031,Tech,Smart Doorbells,2600,2200,130,16,960.00,215,organic
+2024-10-31,Bon Appetit,BA031,Food,Candy Storage,1600,1300,80,10,600.00,160,email
+2024-10-31,Allure,ALL031,Beauty,Halloween Makeup,2800,2400,140,17,1020.00,185,social
+2024-11-01,Vogue,VOG032,Fashion,Winter Accessories,2400,2000,120,15,900.00,190,organic
+2024-11-01,GQ,GQ032,Grooming,Shaving Kits,1900,1600,95,11,660.00,195,organic
+2024-11-01,Wired,WIR032,Gadgets,Air Purifiers,3000,2600,150,18,1080.00,225,organic
+2024-11-01,Bon Appetit,BA032,Food,Soup Pots,1500,1200,75,9,540.00,175,social
+2024-11-01,Allure,ALL032,Beauty,Hand Creams,2000,1700,100,12,720.00,180,organic
+2024-11-02,Vogue,VOG033,Accessories,Tote Bags,2300,1900,115,14,840.00,185,organic
+2024-11-02,GQ,GQ033,Style,Flannel Shirts,2100,1800,105,13,780.00,190,social
+2024-11-02,Wired,WIR033,Tech,Ergonomic Mice,2200,1900,110,14,840.00,210,organic
+2024-11-02,Bon Appetit,BA033,Cookware,Woks and Stir Fry,1400,1100,70,8,480.00,170,email
+2024-11-02,Allure,ALL033,Beauty,Body Lotions,2200,1900,110,13,780.00,185,organic
+2024-11-03,Vogue,VOG034,Fashion,Puffer Jackets,2700,2300,135,17,1020.00,200,organic
+2024-11-03,GQ,GQ034,Tech,Sleep Trackers,2000,1700,100,12,720.00,205,organic
+2024-11-03,Wired,WIR034,Tech,Standing Desks,2900,2500,145,18,1080.00,220,social
+2024-11-03,Bon Appetit,BA034,Food,Pasta Makers,1300,1000,65,7,420.00,165,email
+2024-11-03,Allure,ALL034,Beauty,Lip Balms,1800,1500,90,11,660.00,170,organic
+2024-11-04,Vogue,VOG035,Fashion,Sweater Weather,2500,2100,125,15,900.00,195,organic
+2024-11-04,GQ,GQ035,Grooming,Hair Wax Products,1800,1500,90,11,660.00,190,organic
+2024-11-04,Wired,WIR035,Gadgets,Book Lights,1700,1400,85,10,600.00,195,social
+2024-11-04,Bon Appetit,BA035,Cookware,Pressure Cookers,1600,1300,80,10,600.00,180,email
+2024-11-04,Allure,ALL035,Beauty,Acne Treatments,2600,2200,130,16,960.00,190,organic
+2024-11-05,Vogue,VOG036,Accessories,Winter Boots,2800,2400,140,17,1020.00,200,organic
+2024-11-05,GQ,GQ036,Style,Thermal Underwear,1600,1300,80,9,540.00,185,direct
+2024-11-05,Wired,WIR036,Tech,Backup Drives,2400,2000,120,15,900.00,215,organic
+2024-11-05,Bon Appetit,BA036,Food,Ice Cream Makers,1400,1100,70,8,480.00,170,social
+2024-11-05,Allure,ALL036,Beauty,Retinol Products,2700,2300,135,17,1020.00,195,organic
+2024-11-06,Vogue,VOG037,Fashion,Faux Fur Coats,2600,2200,130,16,960.00,195,organic
+2024-11-06,GQ,GQ037,Grooming,Beard Oils,1900,1600,95,11,660.00,185,organic
+2024-11-06,Wired,WIR037,Tech,Mechanical Keyboards,3200,2800,160,20,1200.00,225,organic
+2024-11-06,Bon Appetit,BA037,Cookware,Ramekins,1100,800,55,6,360.00,155,email
+2024-11-06,Allure,ALL037,Beauty,Vitamin C Serums,2800,2400,140,17,1020.00,200,organic
+2024-11-07,Vogue,VOG038,Fashion,Knitwear Guide,2400,2000,120,15,900.00,190,organic
+2024-11-07,GQ,GQ038,Style,Winter Gloves,1700,1400,85,10,600.00,180,social
+2024-11-07,Wired,WIR038,Gadgets,Charging Cables,1900,1600,95,11,660.00,200,social
+2024-11-07,Bon Appetit,BA038,Food,Pizza Stones,1500,1200,75,9,540.00,175,email
+2024-11-07,Allure,ALL038,Beauty,Hyaluronic Acid,2500,2100,125,15,900.00,190,organic
+2024-11-08,Vogue,VOG039,Accessories,Leather Gloves,2100,1800,105,13,780.00,185,organic
+2024-11-08,GQ,GQ039,Tech,Dash Cams,2300,1900,115,14,840.00,210,organic
+2024-11-08,Wired,WIR039,Tech,Graphics Cards,3500,3000,175,22,1320.00,240,organic
+2024-11-08,Bon Appetit,BA039,Cookware,Mortar and Pestle,1200,900,60,7,420.00,160,direct
+2024-11-08,Allure,ALL039,Beauty,Eye Creams,2400,2000,120,15,900.00,190,organic
+2024-11-09,Vogue,VOG040,Fashion,Velvet Dresses,2900,2500,145,18,1080.00,200,organic
+2024-11-09,GQ,GQ040,Grooming,Shampoo Guide,2000,1700,100,12,720.00,190,organic
+2024-11-09,Wired,WIR040,Tech,Conference Webcams,2600,2200,130,16,960.00,220,social
+2024-11-09,Bon Appetit,BA040,Food,Waffle Makers,1400,1100,70,8,480.00,170,email
+2024-11-09,Allure,ALL040,Beauty,Concealer Guide,2300,1900,115,14,840.00,185,organic
+2024-11-10,Vogue,VOG041,Fashion,Party Dresses,3100,2600,155,19,1140.00,205,organic
+2024-11-10,GQ,GQ041,Style,Dress Boots,2100,1800,105,13,780.00,195,social
+2024-11-10,Wired,WIR041,Gadgets,Smart Thermostats,2800,2400,140,17,1020.00,225,organic
+2024-11-10,Bon Appetit,BA041,Cookware,Fondue Pots,1300,1000,65,7,420.00,165,email
+2024-11-10,Allure,ALL041,Beauty,Setting Powders,2200,1900,110,13,780.00,180,organic
+2024-11-11,Vogue,VOG042,Accessories,Statement Necklaces,2000,1700,100,12,720.00,180,organic
+2024-11-11,GQ,GQ042,Grooming,Conditioner Reviews,1800,1500,90,11,660.00,185,organic
+2024-11-11,Wired,WIR042,Tech,Budget Laptops,3400,2900,170,21,1260.00,235,organic
+2024-11-11,Bon Appetit,BA042,Food,Popcorn Makers,1200,900,60,7,420.00,160,social
+2024-11-11,Allure,ALL042,Beauty,Facial Mists,2100,1800,105,13,780.00,175,organic
+2024-11-12,Vogue,VOG043,Fashion,Sequin Dresses,2700,2300,135,17,1020.00,200,organic
+2024-11-12,GQ,GQ043,Style,Winter Scarves,1900,1600,95,11,660.00,190,social
+2024-11-12,Wired,WIR043,Tech,Webcam Covers,1500,1200,75,9,540.00,195,social
+2024-11-12,Bon Appetit,BA043,Cookware,Sheet Pans,1400,1100,70,8,480.00,170,email
+2024-11-12,Allure,ALL043,Beauty,Makeup Removers,2400,2000,120,15,900.00,185,organic
+2024-11-13,Vogue,VOG044,Fashion,Cashmere Scarves,2500,2100,125,15,900.00,195,organic
+2024-11-13,GQ,GQ044,Tech,Portable Speakers,2200,1900,110,14,840.00,205,organic
+2024-11-13,Wired,WIR044,Gadgets,Laptop Bags,2400,2000,120,15,900.00,210,organic
+2024-11-13,Bon Appetit,BA044,Food,Meat Thermometers,1300,1000,65,7,420.00,165,direct
+2024-11-13,Allure,ALL044,Beauty,Tinted Moisturizers,2300,1900,115,14,840.00,190,organic
+2024-11-14,Vogue,VOG045,Accessories,Clutch Bags,2200,1900,110,13,780.00,185,organic
+2024-11-14,GQ,GQ045,Grooming,Face Scrubs,1900,1600,95,11,660.00,190,organic
+2024-11-14,Wired,WIR045,Tech,Wireless Mice,2100,1800,105,13,780.00,215,social
+2024-11-14,Bon Appetit,BA045,Cookware,Bread Pans,1200,900,60,7,420.00,160,email
+2024-11-14,Allure,ALL045,Beauty,BB Creams,2200,1900,110,13,780.00,180,organic
+2024-11-15,Vogue,VOG046,Fashion,Holiday Outfits,3200,2700,160,20,1200.00,205,organic
+2024-11-15,GQ,GQ046,Style,Gift Guide for Him,2600,2200,130,16,960.00,200,social
+2024-11-15,Wired,WIR046,Tech,Tech Gift Guide,3800,3200,190,24,1440.00,240,organic
+2024-11-15,Bon Appetit,BA046,Food,Holiday Cookware,1800,1500,90,11,660.00,180,email
+2024-11-15,Allure,ALL046,Beauty,Gift Sets Beauty,2700,2300,135,17,1020.00,195,organic
+2024-11-16,Vogue,VOG047,Fashion,Formal Wear,2800,2400,140,17,1020.00,200,organic
+2024-11-16,GQ,GQ047,Grooming,Grooming Gift Sets,2100,1800,105,13,780.00,195,organic
+2024-11-16,Wired,WIR047,Gadgets,Smart Plugs,2300,2000,115,14,840.00,220,social
+2024-11-16,Bon Appetit,BA047,Cookware,Serving Platters,1500,1200,75,9,540.00,175,email
+2024-11-16,Allure,ALL047,Beauty,Skin Care Sets,2600,2200,130,16,960.00,190,organic
+2024-11-17,Vogue,VOG048,Accessories,Evening Bags,2400,2000,120,15,900.00,190,organic
+2024-11-17,GQ,GQ048,Style,Monogrammed Gifts,1800,1500,90,11,660.00,185,social
+2024-11-17,Wired,WIR048,Tech,E-Readers,2700,2300,135,17,1020.00,225,organic
+2024-11-17,Bon Appetit,BA048,Food,Coffee Grinders,1600,1300,80,10,600.00,180,email
+2024-11-17,Allure,ALL048,Beauty,Perfume Sets,2500,2100,125,15,900.00,190,organic
+2024-11-18,Vogue,VOG049,Fashion,Black Friday Fashion,3600,3000,180,23,1380.00,210,organic
+2024-11-18,GQ,GQ049,Tech,Black Friday Tech,3200,2700,160,20,1200.00,215,organic
+2024-11-18,Wired,WIR049,Gadgets,Black Friday Deals,4500,3800,225,28,1680.00,245,organic
+2024-11-18,Bon Appetit,BA049,Cookware,Kitchen Black Friday,2000,1700,100,12,720.00,190,email
+2024-11-18,Allure,ALL049,Beauty,Black Friday Beauty,3100,2600,155,19,1140.00,200,organic
+2024-11-19,Vogue,VOG050,Fashion,Cyber Monday Deals,3400,2900,170,21,1260.00,205,social
+2024-11-19,GQ,GQ050,Style,Cyber Monday Fashion,2800,2400,140,17,1020.00,200,social
+2024-11-19,Wired,WIR050,Tech,Cyber Monday Tech,4200,3600,210,26,1560.00,240,organic
+2024-11-19,Bon Appetit,BA050,Food,Cyber Monday Kitchen,1900,1600,95,11,660.00,185,email
+2024-11-19,Allure,ALL050,Beauty,Cyber Monday Beauty,2900,2500,145,18,1080.00,195,organic
+2024-11-20,Vogue,VOG051,Accessories,Designer Deals,2700,2300,135,17,1020.00,195,organic
+2024-11-20,GQ,GQ051,Grooming,Holiday Grooming,2000,1700,100,12,720.00,190,organic
+2024-11-20,Wired,WIR051,Gadgets,Holiday Tech Gifts,3100,2700,155,19,1140.00,230,organic
+2024-11-20,Bon Appetit,BA051,Cookware,Holiday Baking,1700,1400,85,10,600.00,175,email
+2024-11-20,Allure,ALL051,Beauty,Party Makeup,2400,2000,120,15,900.00,185,organic
+2024-11-21,Vogue,VOG052,Fashion,Winter Wardrobe,2600,2200,130,16,960.00,200,organic
+2024-11-21,GQ,GQ052,Style,Cold Weather Gear,2100,1800,105,13,780.00,195,social
+2024-11-21,Wired,WIR052,Tech,Gaming Gifts,3500,3000,175,22,1320.00,235,organic
+2024-11-21,Bon Appetit,BA052,Food,Thanksgiving Prep,1800,1500,90,11,660.00,180,email
+2024-11-21,Allure,ALL052,Beauty,Winter Skin Care,2500,2100,125,15,900.00,190,organic
+2024-11-22,Vogue,VOG053,Fashion,Thanksgiving Outfits,2900,2500,145,18,1080.00,205,organic
+2024-11-22,GQ,GQ053,Grooming,Travel Grooming Kits,1900,1600,95,11,660.00,190,organic
+2024-11-22,Wired,WIR053,Gadgets,Travel Tech,2800,2400,140,17,1020.00,225,social
+2024-11-22,Bon Appetit,BA053,Cookware,Roasting Pans,1600,1300,80,10,600.00,175,email
+2024-11-22,Allure,ALL053,Beauty,Travel Beauty,2300,1900,115,14,840.00,185,organic
+2024-11-23,Vogue,VOG054,Accessories,Holiday Jewelry,2500,2100,125,15,900.00,190,organic
+2024-11-23,GQ,GQ054,Style,Festive Sweaters,2200,1900,110,14,840.00,195,social
+2024-11-23,Wired,WIR054,Tech,Home Automation,3000,2600,150,18,1080.00,230,organic
+2024-11-23,Bon Appetit,BA054,Food,Pie Dishes,1400,1100,70,8,480.00,170,email
+2024-11-23,Allure,ALL054,Beauty,Holiday Glam,2600,2200,130,16,960.00,195,organic
+2024-11-24,Vogue,VOG055,Fashion,Gift Guide for Her,3100,2600,155,19,1140.00,205,organic
+2024-11-24,GQ,GQ055,Tech,Smartwatch Deals,2700,2300,135,17,1020.00,210,organic
+2024-11-24,Wired,WIR055,Gadgets,Home Office Setup,3200,2800,160,20,1200.00,235,organic
+2024-11-24,Bon Appetit,BA055,Cookware,Kitchen Upgrades,1700,1400,85,10,600.00,180,social
+2024-11-24,Allure,ALL055,Beauty,Luxury Beauty,2800,2400,140,17,1020.00,200,organic
+2024-11-25,Vogue,VOG056,Fashion,December Style,2700,2300,135,17,1020.00,200,organic
+2024-11-25,GQ,GQ056,Grooming,Winter Grooming,2000,1700,100,12,720.00,195,organic
+2024-11-25,Wired,WIR056,Tech,End of Year Tech,3400,2900,170,21,1260.00,240,organic
+2024-11-25,Bon Appetit,BA056,Food,Holiday Recipes,1800,1500,90,11,660.00,185,email
+2024-11-25,Allure,ALL056,Beauty,Year End Beauty,2500,2100,125,15,900.00,190,organic
+2024-11-26,Vogue,VOG057,Accessories,Holiday Accessories,2400,2000,120,15,900.00,195,organic
+2024-11-26,GQ,GQ057,Style,New Year Style,2100,1800,105,13,780.00,190,social
+2024-11-26,Wired,WIR057,Gadgets,2025 Tech Trends,3100,2700,155,19,1140.00,235,organic
+2024-11-26,Bon Appetit,BA057,Cookware,Party Serving,1600,1300,80,10,600.00,175,email
+2024-11-26,Allure,ALL057,Beauty,Party Ready,2400,2000,120,15,900.00,185,organic
+2024-11-27,Vogue,VOG058,Fashion,Sequins and Sparkle,2800,2400,140,17,1020.00,200,organic
+2024-11-27,GQ,GQ058,Grooming,Holiday Scents,1900,1600,95,11,660.00,190,organic
+2024-11-27,Wired,WIR058,Tech,Gaming Setup,3600,3100,180,23,1380.00,240,organic
+2024-11-27,Bon Appetit,BA058,Food,Appetizer Tools,1500,1200,75,9,540.00,170,social
+2024-11-27,Allure,ALL058,Beauty,Glitter Makeup,2600,2200,130,16,960.00,195,organic
+2024-11-28,Vogue,VOG059,Fashion,NYE Outfits,3300,2800,165,20,1200.00,210,organic
+2024-11-28,GQ,GQ059,Style,Party Suits,2400,2000,120,15,900.00,200,social
+2024-11-28,Wired,WIR059,Gadgets,Party Tech,2700,2300,135,17,1020.00,225,social
+2024-11-28,Bon Appetit,BA059,Cookware,Champagne Tools,1700,1400,85,10,600.00,180,email
+2024-11-28,Allure,ALL059,Beauty,NYE Makeup,2900,2500,145,18,1080.00,200,organic
+2024-11-29,Vogue,VOG060,Accessories,NYE Accessories,2600,2200,130,16,960.00,195,organic
+2024-11-29,GQ,GQ060,Grooming,Fresh Start 2025,2000,1700,100,12,720.00,195,organic
+2024-11-29,Wired,WIR060,Tech,Productivity Tech,3300,2800,165,20,1200.00,240,organic
+2024-11-29,Bon Appetit,BA060,Food,Meal Prep Tools,1600,1300,80,10,600.00,175,email
+2024-11-29,Allure,ALL060,Beauty,New Year Skincare,2700,2300,135,17,1020.00,195,organic
