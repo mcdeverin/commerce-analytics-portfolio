@@ -33,7 +33,7 @@ Mock commerce data representing a media company's affiliate content portfolio:
 
 ---
 
-## 🔍 SQL Queries
+##  SQL Queries
 
 ### 1. Weekly Revenue Analysis ([View SQL](sql/01_revenue_analysis.sql))
 Week-over-week revenue performance with growth calculations. Mirrors regular performance reporting for executive stakeholders.
@@ -99,7 +99,7 @@ These queries demonstrate capability to:
 
 ---
 
-## 📫 Connect
+## Connect
 
 - **LinkedIn:** [linkedin.com/in/macauley-deverin](https://linkedin.com/in/macauley-deverin)
 - **Email:** mcdeverin@gmail.com
