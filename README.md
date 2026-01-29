@@ -1,4 +1,4 @@
-# commerce-analytics-portfolio
+# commerce-analytics-SQL
 SQL queries demonstrating commerce analytics skills
 
 # Commerce Analytics Portfolio
